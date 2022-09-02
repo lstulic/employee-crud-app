@@ -1,10 +1,11 @@
 ## General info
-Basic project done in Spring Boot using Spring Data JPA and Thymeleaf to show basic CRUD operations done on MySQL database.
+Basic project done in Spring Boot using Spring Data JPA, Hibernate and Thymeleaf to show basic CRUD operations done on MySQL database.
 	
 ## Technologies
 Project is created with:
 * Spring Boot
 * Spring Data JPA
+* Hibernate
 * Thymeleaf
 * MySQL Database
 	
