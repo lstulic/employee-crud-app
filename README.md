@@ -1,8 +1,3 @@
-## Table of contents
-* [General info](#general-info)
-* [Technologies](#technologies)
-* [Setup](#setup)
-
 ## General info
 Basic project done in Spring Boot using Spring Data JPA and Thymeleaf to show basic CRUD operations done on MySQL database.
 	
